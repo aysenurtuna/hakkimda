@@ -1,0 +1,2 @@
+# hakkimda
+patika.dev ödevi
